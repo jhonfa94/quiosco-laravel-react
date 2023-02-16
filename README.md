@@ -27,11 +27,17 @@ Proyecto de implementación de un quiosco para la toma de pedidos de los cliente
 ## 🔵 Reactjs
 * Librería para generar las interacciones del usuario y realizar los consumos de la API creada con Laravel y gestionar todo el estado de la aplicación. Para este caso se integra Tailwindcss para el manejo de los estilos de aplicación y de los componentes que se tiene.
 > ***🚀 Deploy Fronted***
+
 **1.** Ingresar al directorio del proyecto: **cd react-quiosco**
+
 **2.** Instalar las dependencias del framework: **npm install**
+
 **3.** Crear el archivo **.env.local** y asignarle el valor de **VITE_API_URL=servidor-api** ejemplo: **VITE_API_URL=http://localhost:8000**
+
 **4.** - Modo desarrollo: **npm run dev**
+
 **5.** - Modo produccion: **npm run build**
+
 
 ***
 
